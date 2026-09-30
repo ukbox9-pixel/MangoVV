@@ -1,0 +1,6 @@
+{
+  "name": "HPP - ระบบจัดการสินค้าและสั่งซื้อ",
+  "description": "เว็บแอปจัดการสินค้าและสั่งซื้อภายในร้าน/ธุรกิจ เชื่อมต่อ Google Sheets บันทึกประวัติและสร้างใบรายการสั่งซื้อ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
